@@ -1,4 +1,4 @@
-## Olá! Eu souu a Julia Martinelli Calassara.
+## Olá! Eu sou a Julia Martinelli Calassara.
 
 - 📝 Estudante dde Análise e Desenvolvimento de Sistemas na UniCesumar.
 - 💻 Em desenvolvimento na área de Tecnologia da  informação.
