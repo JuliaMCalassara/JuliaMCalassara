@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Julia Martinelli Calassara.
 
-- 📝 Estudante dde Análise e Desenvolvimento de Sistemas na UniCesumar.
-- 💻 Em desenvolvimento na área de Tecnologia da  informação.
+- 📝 Estudante de Análise e Desenvolvimento de Sistemas na UniCesumar.
+- 💻 Em desenvolvimento na área de Tecnologia da informação.
 - 🌱 Atualmente faço cursos para ampliar meus conhecimentos em programação.
 
 ![JuliaMCalassara's Stats](https://github-readme-stats.vercel.app/api?username=JuliaMCalassara&theme=dracula&show_icons=true&hide_border=true&count_private=true)
